@@ -1,0 +1,5 @@
+要求
+1、coco train2014，coco test2015 图片用于测试和可视化
+2、已经提取好的coco train2014的特征
+3、处理coco-QA数据集为vqa的格式
+4、最好的模型为basemodel4，baseline17，RN4，train4
